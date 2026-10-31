@@ -1,6 +1,6 @@
 # End-to-End Jenkins CI/CD Pipeline with SonarQube, Docker, and AWS EC2
 
-This repository demonstrates the implementation of an Automated Continuous Integration and Continuous Deployment (CI/CD) pipeline using **Jenkins**, **SonarQube**, **Docker**, and **GitHub Webhooks**, deployed on an **AWS EC2** instance.
+This repository demonstrates the implementation of an Automated Continuous Integration and Continuous Deployment (CI/CD) pipeline using **Jenkins**, **SonarQube**, **Docker**, and **GitHub Webhooks**, deployed on 3 **AWS EC2** instances.
 
 ## 🏗️ Architecture Overview
 
