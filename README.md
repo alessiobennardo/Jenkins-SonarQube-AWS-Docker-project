@@ -34,7 +34,7 @@ This repository demonstrates the implementation of an Automated Continuous Integ
 
 ### 1. AWS EC2 Setup
 
-* Launch an AWS EC2 instance (Ubuntu 22.04 LTS or 24.04 LTS recommended, `t2.medium` or higher for running Jenkins and SonarQube smoothly).
+* Launch 3 different AWS EC2 instances (Ubuntu 22.04 LTS or 24.04 LTS recommended, `t2.medium` or higher for running Jenkins and SonarQube smoothly) where install Jenkins, Sonarqube and Docker.
 
 * Configure **Security Group** Inbound Rules:
 
@@ -46,7 +46,7 @@ This repository demonstrates the implementation of an Automated Continuous Integ
 
   * `SonarQube` (Port 9000): For accessing SonarQube dashboard.
 
-  * `App Port` (e.g., Port 8000 / 8081): For accessing the running application container.
+  * `Docker App Port` (e.g., Port 8085): For accessing the running application container.
 
 ## ⚙️ Installation & Configuration Steps
 
