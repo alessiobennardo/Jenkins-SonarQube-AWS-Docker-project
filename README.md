@@ -2,6 +2,8 @@
 
 This repository demonstrates the implementation of an Automated Continuous Integration and Continuous Deployment (CI/CD) pipeline using **Jenkins**, **SonarQube**, **Docker**, and **GitHub Webhooks**, deployed across 3 **AWS EC2** instances.
 
+<img width="1177" height="518" alt="github-jenkins-docker pipeline" src="https://github.com/user-attachments/assets/d0012b8e-40aa-4b55-aadf-5554c36d7d27" />
+
 ## 🏗️ Architecture Overview
 
 1. **Code Push**: Developer pushes code changes to the GitHub repository.
